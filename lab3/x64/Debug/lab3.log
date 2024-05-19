@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\lab3\objects.h(143,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\lab3\objects.h(158,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\lab3\objects.h(159,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\lab3\objects.h(160,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\lab3\objects.h(161,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  lab3.vcxproj -> C:\Users\malan\OneDrive\Рабочий стол\oop\lab3\x64\Debug\lab3.exe
